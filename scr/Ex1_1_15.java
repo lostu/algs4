@@ -1,4 +1,4 @@
-package ExOne
+package ExOne;
 public class Ex1_1_15{
 	public static int[] histogram(int a[],int M) {
 		int[] b=new int[M];int T=0;
